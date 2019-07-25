@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crud", "Crud.csproj", "{37CD742D-6249-4A4C-AA7B-4500F6A4D714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntryPoint", "..\EntryPoint\EntryPoint.csproj", "{3A4518A2-7B87-4AD9-8078-73FE80026885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37CD742D-6249-4A4C-AA7B-4500F6A4D714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CD742D-6249-4A4C-AA7B-4500F6A4D714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CD742D-6249-4A4C-AA7B-4500F6A4D714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CD742D-6249-4A4C-AA7B-4500F6A4D714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4518A2-7B87-4AD9-8078-73FE80026885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4518A2-7B87-4AD9-8078-73FE80026885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4518A2-7B87-4AD9-8078-73FE80026885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4518A2-7B87-4AD9-8078-73FE80026885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63AE045E-8561-41DF-ADD7-5F5DA514DF22}
+	EndGlobalSection
+EndGlobal
